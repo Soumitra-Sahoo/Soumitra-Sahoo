@@ -24,18 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soumitra-Sahoo&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Soumitra-Sahoo&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
